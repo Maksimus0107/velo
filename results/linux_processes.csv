@@ -1,0 +1,247 @@
+Pid,Ppid,Name,CommandLine,Exe,Hash,Username,CreateTime,RSS,Deleted,FlowId,ClientId,Fqdn
+" 1"," 0",systemd,/usr/lib/systemd/systemd --system --deserialize=80 splash,/usr/lib/systemd/systemd,"{
+ ""MD5"": ""c855231100a27af27020b2139d6fcb5b"",
+ ""SHA1"": ""99df0a4d7be11fd4ed19c09d5905504617aa194d"",
+ ""SHA256"": ""9a813714ffd4dadb692afe44384c9c5b334fa323a4ec1dd5157aebdcbbb0667a""
+}",root,2026-10-18T08:58:02Z,14856192,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 10"," 2",kworker/0:0H,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1241"," 1",VBoxDRMClient,/usr/bin/VBoxDRMClient,/opt/VBoxGuestAdditions-7.2.4/bin/VBoxDRMClient,"{
+ ""MD5"": ""7bb1f9f3578d4a5c31d1bf2be0c369f5"",
+ ""SHA1"": ""3d557f5c530d3a627827fb8f3c3874f27be69b4d"",
+ ""SHA256"": ""1e5961f2a1121a281353da05ecf7fcd011dc4aca8d3c93cc77d3e51f68548464""
+}",root,2026-10-18T08:58:12Z,2969600,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1269"," 1",unattended-upgr,/usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal,/usr/bin/python3.12,"{
+ ""MD5"": ""889a058bf0c9cf12e239a83a59a405d0"",
+ ""SHA1"": ""28193a4dd620900bf7ca026d310be71d3316c723"",
+ ""SHA256"": ""e50d468e8b0adfb05733f5b87b3cff34829c4a8c1aea50c865aa8bdfe4bb150f""
+}",root,2026-10-18T08:58:12Z,24055808,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1283"," 1",gdm3,/usr/sbin/gdm3,/usr/sbin/gdm3,"{
+ ""MD5"": ""76d05c9bd2bce94ba9aeb144bc2d4d3f"",
+ ""SHA1"": ""fad599d5524cef9017f8889cf8dfe40de53f8bf5"",
+ ""SHA256"": ""bb07a6847344ca8211283518d6deae3ff6802f32b24f98cf9bd3d76112d76d94""
+}",root,2026-10-18T08:58:12Z,10321920,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 13"," 2",kworker/R-mm_percpu_wq,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1301"," 1",kerneloops,/usr/sbin/kerneloops --test,/usr/sbin/kerneloops,"{
+ ""MD5"": ""a48d872519b806a892a9b6afead943e7"",
+ ""SHA1"": ""0b4e363fb975d3a74f0d3d403d0514e48eb0dacf"",
+ ""SHA256"": ""9a661a2d9430d7ab860eef4ae87c52f2b8e0fd19a8b2276ea0a1d49f7417177a""
+}",kernoops,2026-10-18T08:58:12Z,2527232,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1305"," 1",kerneloops,/usr/sbin/kerneloops,/usr/sbin/kerneloops,"{
+ ""MD5"": ""a48d872519b806a892a9b6afead943e7"",
+ ""SHA1"": ""0b4e363fb975d3a74f0d3d403d0514e48eb0dacf"",
+ ""SHA256"": ""9a661a2d9430d7ab860eef4ae87c52f2b8e0fd19a8b2276ea0a1d49f7417177a""
+}",kernoops,2026-10-18T08:58:12Z,2519040,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 13185"," 2",psimon,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T13:54:48Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1352"," 1",rtkit-daemon,/usr/libexec/rtkit-daemon,/usr/libexec/rtkit-daemon,"{
+ ""MD5"": ""a347df091cd3f07843ddb4e32e2cdb02"",
+ ""SHA1"": ""1b8978db5d480034d0a3d9338a5050c7d34c0d57"",
+ ""SHA256"": ""6c12e21730fd83232f48b212a86d343bedf505afc39b5013040734b51ce2c51d""
+}",rtkit,2026-10-18T08:58:13Z,3690496,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 13698"," 2",kworker/1:2H-kblockd,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T13:55:11Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14"," 2",ksoftirqd/0,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 142"," 2",scsi_eh_2,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:03Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 145"," 2",kworker/R-scsi_tmf_2,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:03Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14518"," 1850",update-manager,/usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map,/usr/bin/python3.12,"{
+ ""MD5"": ""889a058bf0c9cf12e239a83a59a405d0"",
+ ""SHA1"": ""28193a4dd620900bf7ca026d310be71d3316c723"",
+ ""SHA256"": ""e50d468e8b0adfb05733f5b87b3cff34829c4a8c1aea50c865aa8bdfe4bb150f""
+}",maks-cli,2026-10-18T13:57:00Z,219303936,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 147"," 2",kworker/0:1H-kblockd,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:03Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14722"," 2",kworker/u9:1-ttm,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T14:00:54Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1477"," 1",colord,/usr/libexec/colord,/usr/libexec/colord,"{
+ ""MD5"": ""9856f807ac30d97c697621f31fb7f019"",
+ ""SHA1"": ""764c420001e0dbf8a76784dd9b35b758447a9fe4"",
+ ""SHA256"": ""681043117297f8172bd65b384e30d3533c4fa4260a18acf34c54a74e335917c0""
+}",colord,2026-10-18T08:58:17Z,15503360,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14781"," 2",kworker/u8:2-events_unbound,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T14:14:16Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14805"," 2",kworker/u8:5-flush-8:0,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T14:26:38Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14826"," 2",kworker/1:0-cgroup_free,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T14:26:39Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14841"," 1850",update-notifier,/bin/sh /usr/lib/update-notifier/update-notifier-crash,/usr/bin/dash,"{
+ ""MD5"": ""06c607d76755c1bc7e994981951ee015"",
+ ""SHA1"": ""9697fc549039a25a859a827d00e5c97e9729e983"",
+ ""SHA256"": ""86d31f6fb799e91fa21bad341484564510ca287703a16e9e46c53338776f4f42""
+}",maks-cli,2026-10-18T14:26:41Z,2027520,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14847"," 2",kworker/0:1-events,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T14:26:41Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14849"," 1",systemd-journald,/usr/lib/systemd/systemd-journald,/usr/lib/systemd/systemd-journald,"{
+ ""MD5"": ""efd06196744f71f9dd496a5bc033cb9d"",
+ ""SHA1"": ""e11e115a5181fa1068e2c29c2a7ac5106bd5f4de"",
+ ""SHA256"": ""21cfd551fc6043d17eb5338b981f8bf998c669f02e120d33e6419b12462ec061""
+}",root,2026-10-18T14:26:41Z,16801792,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14851"," 2",kworker/0:3-cgroup_free,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T14:26:41Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14863"," 14841",system-crash-notification,/usr/lib/update-notifier/system-crash-notification,/usr/lib/update-notifier/system-crash-notification,"{
+ ""MD5"": ""b83ee0d01f457365b42509d31f163cd3"",
+ ""SHA1"": ""1724a83b0af5058c336aa496b0f96223253894ef"",
+ ""SHA256"": ""8d43ca3ca234a8cc597d848ba6d74fa5a309b0322a037332e336ed5110524c2a""
+}",maks-cli,2026-10-18T14:26:41Z,45047808,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 14876"," 1",systemd-timesyncd,/usr/lib/systemd/systemd-timesyncd,/usr/lib/systemd/systemd-timesyncd,"{
+ ""MD5"": ""f50e5660ecb18c5c411c622b8028d1b6"",
+ ""SHA1"": ""3a59633325fd9f615c21e6c84366a93298aab7c3"",
+ ""SHA256"": ""5e87427803daf1dbe974cc62fba335c96ff24e37892f67d9095d6703d2c32009""
+}",systemd-timesync,2026-10-18T14:26:43Z,8220672,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 15"," 2",rcu_preempt,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1514"," 1",upowerd,/usr/libexec/upowerd,/usr/libexec/upowerd,"{
+ ""MD5"": ""6e3becceebf73ae793c2a3536251238f"",
+ ""SHA1"": ""cedaf65ddf5f4d86f7626b4cdb5027aa6678abdc"",
+ ""SHA256"": ""05d6f18b931d22b3bf91c410b66134bed0186532857eb30c92eb13dc6f5dc20e""
+}",root,2026-10-18T08:58:18Z,9895936,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 16"," 2",rcu_exp_par_gp_kthread_worker/0,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 17"," 2",rcu_exp_gp_kthread_worker,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 18"," 2",migration/0,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1826"," 1283",gdm-session-wor,gdm-session-worker [pam/gdm-password],/usr/libexec/gdm-session-worker,"{
+ ""MD5"": ""398d200a846c6ee07fccc548d970f64a"",
+ ""SHA1"": ""30cc2f639213f4fe49447cbd9d585ce455a42a58"",
+ ""SHA256"": ""900c2c93c5dd6b1e30d140d09b4caba5022f2c6662b4cf9726e1db58eddf8b61""
+}",root,2026-10-18T08:58:44Z,12079104,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1850"," 1",systemd,/usr/lib/systemd/systemd --user --deserialize=8,/usr/lib/systemd/systemd,"{
+ ""MD5"": ""c855231100a27af27020b2139d6fcb5b"",
+ ""SHA1"": ""99df0a4d7be11fd4ed19c09d5905504617aa194d"",
+ ""SHA256"": ""9a813714ffd4dadb692afe44384c9c5b334fa323a4ec1dd5157aebdcbbb0667a""
+}",maks-cli,2026-10-18T08:58:52Z,12857344,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1852"," 1850",(sd-pam),(sd-pam),/usr/lib/systemd/systemd-executor (deleted),,maks-cli,2026-10-18T08:58:52Z,3751936,true,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1861"," 1850",pipewire,/usr/bin/pipewire,/usr/bin/pipewire,"{
+ ""MD5"": ""c1981a806de41a239246d32e01853a7e"",
+ ""SHA1"": ""99e21c7a87cd36bdaef392ac28b2942594ae1e39"",
+ ""SHA256"": ""11b7cd65452c9672fb59444e3f93f6a3101e736a8223bbc900f0617d76d6eeea""
+}",maks-cli,2026-10-18T08:58:53Z,16105472,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1866"," 1850",pipewire,/usr/bin/pipewire -c filter-chain.conf,/usr/bin/pipewire,"{
+ ""MD5"": ""c1981a806de41a239246d32e01853a7e"",
+ ""SHA1"": ""99e21c7a87cd36bdaef392ac28b2942594ae1e39"",
+ ""SHA256"": ""11b7cd65452c9672fb59444e3f93f6a3101e736a8223bbc900f0617d76d6eeea""
+}",maks-cli,2026-10-18T08:58:53Z,6406144,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 187"," 2",jbd2/sda2-8,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:06Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1871"," 1850",wireplumber,/usr/bin/wireplumber,/usr/bin/wireplumber,"{
+ ""MD5"": ""0c15f6032076d754890142efbfc6639a"",
+ ""SHA1"": ""619ec7e6668eb9e4c2d6752a1fe02de79d073714"",
+ ""SHA256"": ""fd9cafe0ed4f75c0272bd27c0ce28f8e89172c39330ff03a5b31c83a003f0b9a""
+}",maks-cli,2026-10-18T08:58:53Z,20287488,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 188"," 2",kworker/R-ext4-rsv-conversion,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:06Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1880"," 1850",pipewire-pulse,/usr/bin/pipewire-pulse,/usr/bin/pipewire,"{
+ ""MD5"": ""c1981a806de41a239246d32e01853a7e"",
+ ""SHA1"": ""99e21c7a87cd36bdaef392ac28b2942594ae1e39"",
+ ""SHA256"": ""11b7cd65452c9672fb59444e3f93f6a3101e736a8223bbc900f0617d76d6eeea""
+}",maks-cli,2026-10-18T08:58:53Z,14999552,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1881"," 1850",dbus-daemon,/usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only,/usr/bin/dbus-daemon,"{
+ ""MD5"": ""7db3004d8288c362ad1c5bda798701a9"",
+ ""SHA1"": ""0d117e8344cef8facd905a79354ad966d63bcf80"",
+ ""SHA256"": ""8c479f1fcddfd6693c736ce541da0955f6752834bdeeef4b928e27f5e974c247""
+}",maks-cli,2026-10-18T08:58:53Z,7327744,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1883"," 1850",gnome-keyring-daemon,"/usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring",/usr/bin/gnome-keyring-daemon,"{
+ ""MD5"": ""c6d2582060a47a86ac2d9e236d82f79a"",
+ ""SHA1"": ""70c7694ecefbc411ff33da1ee3e3ad60e0ba55f8"",
+ ""SHA256"": ""b7b284305f8a4c4f5c5a1000ee93e22f3d7df4925dbf2a8f3f768a66b162884d""
+}",maks-cli,2026-10-18T08:58:53Z,11042816,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1897"," 1850",xdg-document-portal,/usr/libexec/xdg-document-portal,/usr/libexec/xdg-document-portal,"{
+ ""MD5"": ""99b32a77be3d6cb476d2bb732c42ba43"",
+ ""SHA1"": ""509cd602fbe3d9a2f6e714da8063f575ac7c8939"",
+ ""SHA256"": ""44dd7e1eb2df2a4de1d8c1189a3fee4451539ffab5db6ba4d21718c6d43af3dc""
+}",maks-cli,2026-10-18T08:58:53Z,8413184,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 19"," 2",kprobe-optimizer,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1913"," 1850",xdg-permission-store,/usr/libexec/xdg-permission-store,/usr/libexec/xdg-permission-store,"{
+ ""MD5"": ""14014a4658a2cabe93a0fec8e1631737"",
+ ""SHA1"": ""7832fac8ed29508ef966c714e7799243388f3eab"",
+ ""SHA256"": ""54e2c7ed1399f6daf64f0177fa9d1727d503975811583ff398196dec6b579d29""
+}",maks-cli,2026-10-18T08:58:53Z,6950912,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1923"," 1897",fusermount3,"fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc",/usr/bin/fusermount3,"{
+ ""MD5"": ""3498b3d1d373f876ff0d6a4551e01c21"",
+ ""SHA1"": ""ddc9ca3e55eb4ab5d416a695f617a0a2e17e647f"",
+ ""SHA256"": ""d278775c1528dd32efc85c2cb322423ee93aa8dcf76aaa595f7022d427910704""
+}",maks-cli,2026-10-18T08:58:53Z,2146304,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1938"," 1826",gdm-wayland-session,/usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu,/usr/libexec/gdm-wayland-session,"{
+ ""MD5"": ""c7816b2b5ef61f39ad603af17be20bf4"",
+ ""SHA1"": ""b82bb50abb377e76ac7ce6877793125916cb3624"",
+ ""SHA256"": ""e3e5e95b20dfc20e996aa1200b6e0bb9430e0cc5c7c4d150d2421d5ea8228be1""
+}",maks-cli,2026-10-18T08:58:53Z,6922240,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 1950"," 1938",gnome-session-binary,/usr/libexec/gnome-session-binary --session=ubuntu,/usr/libexec/gnome-session-binary,"{
+ ""MD5"": ""36dbc87bb61079639660008f1c7e8589"",
+ ""SHA1"": ""61a1dd055caad75cb79afd316882c8c599c4a97b"",
+ ""SHA256"": ""b1aca78d066051d640816a76dae288b28f66d9e2d133af39e007af860a1ec6ec""
+}",maks-cli,2026-10-18T08:58:53Z,17817600,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client
+" 2"," 0",kthreadd,,,"{
+ ""MD5"": ""d41d8cd98f00b204e9800998ecf8427e"",
+ ""SHA1"": ""da39a3ee5e6b4b0d3255bfef95601890afd80709"",
+ ""SHA256"": ""e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855""
+}",root,2026-10-18T08:58:02Z,0,false,F.DBADHTCH05SLG.H,C.de851883b7bd5ffb,linux-client

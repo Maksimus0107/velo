@@ -1,0 +1,2473 @@
+CreateTime,Pid,Ppid,TokenIsElevated,Name,CommandLine,Exe,TokenInfo,Hash,Authenticode,Username,WorkingSetSize,FlowId,ClientId,Fqdn
+2026-10-18T14:14:55.8485235Z,4,0,true,System,,,,,,NT AUTHORITY\SYSTEM,172032,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:14:53.5827004Z,96,4,false,Registry,,,,,,NT AUTHORITY\SYSTEM,17616896,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:14:55.8590156Z,444,4,true,smss.exe,\SystemRoot\System32\smss.exe,C:\Windows\System32\smss.exe,,"{
+ ""MD5"": ""d4eecdc68db138342e5ebe5b71192774"",
+ ""SHA1"": ""54aff321d7f287b45a289c9425912b4f65080fe6"",
+ ""SHA256"": ""0d05e81c571aa03f1dde5e8fa40cef98b77e8eca64821ae4efab121983d81de6""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\smss.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""3300000022fd4d90fe7f14cbd7000000000022"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,1835008,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:02.5103918Z,612,576,true,csrss.exe,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16",C:\Windows\System32\csrss.exe,,"{
+ ""MD5"": ""e77e433573b7f629cfa089ffc8626292"",
+ ""SHA1"": ""17397f105f7d51112261ecc501fe99b8fcf4de67"",
+ ""SHA256"": ""a958083fd4982697973d1f4a05a8f51b1f5d551a558cfa0097cfb6867fdce3ba""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\csrss.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""3300000449808ea75d6e2d3687000000000449"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,8196096,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:02.7179596Z,684,576,true,wininit.exe,wininit.exe,C:\Windows\System32\wininit.exe,,"{
+ ""MD5"": ""7688fec70253af6298b907e54bf4cca5"",
+ ""SHA1"": ""d772aba1c1c599a3441088a63bb9ca2daa3bdf78"",
+ ""SHA256"": ""27f57ebb1d347bc5008c4074f961fce5e77905de4fefde64d00c854c42eb60f1""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\wininit.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""3300000022fd4d90fe7f14cbd7000000000022"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,10518528,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:02.7322551Z,692,676,true,csrss.exe,"%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16",C:\Windows\System32\csrss.exe,,"{
+ ""MD5"": ""e77e433573b7f629cfa089ffc8626292"",
+ ""SHA1"": ""17397f105f7d51112261ecc501fe99b8fcf4de67"",
+ ""SHA256"": ""a958083fd4982697973d1f4a05a8f51b1f5d551a558cfa0097cfb6867fdce3ba""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\csrss.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""3300000449808ea75d6e2d3687000000000449"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,7860224,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:02.8004018Z,752,676,true,winlogon.exe,winlogon.exe,C:\Windows\System32\winlogon.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED""
+ },
+ ""GroupNames"": {
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeProfileSingleProcessPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePermanentPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""fc2ba1bc39aa64ee4cce7a395e21cf3f"",
+ ""SHA1"": ""2ff835eea716775423b91129169d08d47505f165"",
+ ""SHA256"": ""2baa43fa3e9b1694fbe86b789854b24217a1cf4802a94d1bc28bc45290a89d63""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\winlogon.exe"",
+ ""ProgramName"": ""Microsoft"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com"",
+ ""SerialNumber"": ""3300000017d4dfd9e3950be7ef000000000017"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": {
+  ""Catalog"": ""C:\\WINDOWS\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\Microsoft-Windows-CoreSystem-BootableSKU-Winlogon-Package~31bf3856ad364e35~amd64~~10.0.26100.9711.cat""
+ }
+}",NT AUTHORITY\SYSTEM,17231872,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:02.9673341Z,824,684,true,services.exe,C:\WINDOWS\system32\services.exe,C:\Windows\System32\services.exe,,"{
+ ""MD5"": ""2a845685811e53db441e2ef1ff9ee8ff"",
+ ""SHA1"": ""7cd8d15829e78052e46be4eaa5f107f9b2851a3b"",
+ ""SHA256"": ""4aded6d9f290b3e48dba4c39a454caf83eef0663aa3770d20f89cae047a1c4bd""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\services.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000000239b60bab0b1a85c2c000000000023"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,12156928,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:03.0419878Z,832,684,true,lsass.exe,C:\WINDOWS\system32\lsass.exe,C:\Windows\System32\lsass.exe,,"{
+ ""MD5"": ""791f080a3a34a85571fd8de44c66bba5"",
+ ""SHA1"": ""d27f634348798a157738ca0652b759a2877a4706"",
+ ""SHA256"": ""481f11e9df0e3b2ad0e86f1aae31f2b900c1dd4241fbe3db89dceadebec6367e""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\lsass.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""330000002f2f720f9d36e9e76000000000002f"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,31322112,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:03.8392281Z,936,684,false,fontdrvhost.exe,"""fontdrvhost.exe""",C:\Windows\System32\fontdrvhost.exe,"{
+ ""Username"": ""Font Driver Host\\UMFD-0"",
+ ""ProfileDir"": null,
+ ""IsElevated"": false,
+ ""Groups"": {
+  ""S-1-16-4096"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-4"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-5-0-32090"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY"",
+  ""S-1-5-96-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""Low Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""INTERACTIVE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""LogonSessionId_0_32090"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY"",
+  ""S-1-5-96-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-96-0-0"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-96-0-0""
+}","{
+ ""MD5"": ""a458af60ca185c8e8017b4f435bc44eb"",
+ ""SHA1"": ""79c2678a52c8067c4d627a1d0754a968e0ac1784"",
+ ""SHA256"": ""bf8967a8c0a5cf5672dbc87ea0206d7772d91f8a3f852c393c14e916c8bad54f""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\fontdrvhost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""3300000017d4dfd9e3950be7ef000000000017"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",Font Driver Host\UMFD-0,5062656,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:03.840161Z,944,752,false,fontdrvhost.exe,"""fontdrvhost.exe""",C:\Windows\System32\fontdrvhost.exe,"{
+ ""Username"": ""Font Driver Host\\UMFD-1"",
+ ""ProfileDir"": null,
+ ""IsElevated"": false,
+ ""Groups"": {
+  ""S-1-16-4096"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-4"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-5-0-32140"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY"",
+  ""S-1-5-96-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""Low Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""INTERACTIVE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""LogonSessionId_0_32140"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY"",
+  ""S-1-5-96-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-96-0-1"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-96-0-1""
+}","{
+ ""MD5"": ""a458af60ca185c8e8017b4f435bc44eb"",
+ ""SHA1"": ""79c2678a52c8067c4d627a1d0754a968e0ac1784"",
+ ""SHA256"": ""bf8967a8c0a5cf5672dbc87ea0206d7772d91f8a3f852c393c14e916c8bad54f""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\fontdrvhost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""3300000017d4dfd9e3950be7ef000000000017"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",Font Driver Host\UMFD-1,5410816,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:03.890753Z,964,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1988685059-1921232356-378231328-2704142597-890457928"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-1601830629-990752416-3372939810-977361409-3075122917"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-2659457741-469498900-3203170401-3149177360-3048467625"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-1230977110-1477712667-2747199032-477530733-939374687"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-1981970923-922788642-3535304421-2999920573-318732269"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-2343416411-2961288913-598565901-392633850-2111459193"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-1662832393-3268938575-4001313665-1200257238-783911988"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-33075"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""BrokerInfrastructure"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""DcomLaunch"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""DeviceInstall"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""LSM"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""PlugPlay"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""Power"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""SystemEventsBroker"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_33075"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeLockMemoryPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeSystemProfilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeProfileSingleProcessPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePagefilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePermanentPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseWorkingSetPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTimeZonePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateSymbolicLinkPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDelegateSessionUserImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,37040128,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:04.3539998Z,432,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k RPCSS -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\NETWORK SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\NetworkService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-521322694-906040134-3864710659-1525148216-3451224162"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-979556362-403687129-3954533659-2335141334-1547273080"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-36236"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""RpcEptMapper"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""RpcSs"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_36236"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-20"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-20""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\NETWORK SERVICE,17952768,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:04.5529642Z,572,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p -s LSM,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1230977110-1477712667-2747199032-477530733-939374687"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-52618"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""LSM"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_52618"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeLockMemoryPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeSystemProfilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeProfileSingleProcessPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePagefilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePermanentPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseWorkingSetPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTimeZonePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateSymbolicLinkPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDelegateSessionUserImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,12177408,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:04.857701Z,1036,752,false,dwm.exe,"""dwm.exe""",C:\Windows\System32\dwm.exe,"{
+ ""Username"": ""Window Manager\\DWM-1"",
+ ""ProfileDir"": null,
+ ""IsElevated"": false,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-4"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-19"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-90-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""INTERACTIVE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""LOCAL SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Window Manager Group"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-90-0-1"",
+ ""Privileges"": {
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseWorkingSetPrivilege"": ""ENABLED""
+ },
+ ""PrimaryGroup"": ""S-1-5-90-0-1""
+}","{
+ ""MD5"": ""a9c244b06a6521b27573d3eae853d0ed"",
+ ""SHA1"": ""fb319a20e1e192ccac3df481c5b1021c2babb78b"",
+ ""SHA256"": ""7fb9981c58663f7687e5404369cd5434ce7e043c1b805cc8512961d2fc5f1cf8""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\dwm.exe"",
+ ""ProgramName"": ""Microsoft"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com"",
+ ""SerialNumber"": ""3300000017d4dfd9e3950be7ef000000000017"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": {
+  ""Catalog"": ""C:\\WINDOWS\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\Composition-Core-merged-Package~31bf3856ad364e35~amd64~~10.0.26100.9711.cat""
+ }
+}",Window Manager\DWM-1,136421376,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:05.3985911Z,1148,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetwork -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1021139062-1866602279-1255292388-1008060685-2498416891"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-2970612574-78537857-698502321-558674196-1451644582"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-639065985-1709096039-2702309040-2770678766-2981280942"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-2661322625-712705077-2999183737-3043590567-590698655"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-58588"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-33"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CoreMessagingRegistrar"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""DPS"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""NcdAutoSetup"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""pla"": ""ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_58588"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""WRITE RESTRICTED"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,8466432,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:05.4272713Z,1168,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s BDESVC,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2962817144-200689703-2266453665-3849882635-1986547430"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-58837"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""BDESVC"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_58837"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,11186176,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:05.4316246Z,1176,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k NetworkService -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\NETWORK SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\NetworkService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-242729624-280608522-2219052887-3187409060-2225943459"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-58889"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CryptSvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_58889"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-20"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-20""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\NETWORK SERVICE,21856256,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:05.5602382Z,1236,824,false,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": false,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-172094073-716411664-54255058-185476446-2329512179"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-61040"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""lmhosts"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_61040"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,7598080,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:05.6268508Z,1284,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-3169048008-2586333165-76651690-3609634147-4147641610"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-61742"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""NcbService"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_61742"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,14192640,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:05.6527556Z,1320,824,false,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": false,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-410965207-2550896871-1717734767-2321332215-3755966139"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-3557709225-3446934100-2592608561-3401846376-4273827271"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-61999"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""TimeBrokerSvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""TimeBroker"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_61999"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,16130048,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.0932344Z,1448,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s Schedule,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-4125092361-1567024937-842823819-2091237918-836075745"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-66400"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Schedule"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_66400"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeLockMemoryPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeSystemProfilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeProfileSingleProcessPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePagefilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePermanentPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseWorkingSetPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTimeZonePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateSymbolicLinkPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDelegateSessionUserImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,17465344,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.1316947Z,1468,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-4171086659-1617898341-2870161492-1466607281-2109097600"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-66817"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""DispBrokerDesktopSvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_66817"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,9621504,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.2574527Z,1524,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s AppIDSvc,C:\Windows\System32\svchost.exe,,"{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,10371072,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.2722006Z,1536,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k UserProfileService -p -s ProfSvc,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-3816717743-33564931-1112267079-3548917561-928358339"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-67954"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""ProfSvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_67954"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,14856192,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.3255576Z,1556,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s nsi,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2310782386-4237065203-3688974353-390202159-3511571085"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-68489"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""nsi"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_68489"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,10379264,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.806756Z,1704,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k netsvcs -p -s UserManager,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2008603874-3981339663-2468433650-2111681540-3858834245"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-72323"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""UserManager"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_72323"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,13828096,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:06.8882552Z,1728,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k netprofm -p -s netprofm,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\NETWORK SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\NetworkService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-3635958274-2059881490-2225992882-984577281-633327304"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-73023"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""netprofm"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_73023"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-20"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-20""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\NETWORK SERVICE,21225472,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:07.7574176Z,1868,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalService -p -s FontCache,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-3655275221-2954682349-3644260495-855223267-1438849333"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-79938"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""FontCache"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_79938"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,10567680,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:08.2690707Z,1952,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k NetworkService -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\NETWORK SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\NetworkService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-859482183-879914841-863379149-1145462774-2388618682"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-82941"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Dnscache"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_82941"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-20"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-20""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\NETWORK SERVICE,12697600,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:08.9910911Z,2060,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2940520708-3855866260-481812779-327648279-1710889582"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-89072"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Dhcp"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_89072"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,11120640,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:09.2086417Z,2144,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceHttp -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2455429942-3131183193-3617688776-595395669-3772047725"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-92625"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""WinHttpAutoProxySvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_92625"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,10506240,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.027227Z,2216,824,true,VBoxService.exe,C:\WINDOWS\System32\VBoxService.exe,C:\Windows\System32\VBoxService.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED""
+ },
+ ""GroupNames"": {
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeLockMemoryPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeSystemProfilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeSystemtimePrivilege"": ""ENABLED"",
+  ""SeProfileSingleProcessPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePagefilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePermanentPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseWorkingSetPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTimeZonePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateSymbolicLinkPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDelegateSessionUserImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""53d6bf44dddb83fe43e54c364a6cedc9"",
+ ""SHA1"": ""319fe822216e4e87b22019ff0183b0b5c24ed630"",
+ ""SHA256"": ""e7b54c38a7372e99b9ca41b0e911d6a99313c0fb72da879c2818612dc778bda2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\VBoxService.exe"",
+ ""ProgramName"": """",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": """",
+ ""SerialNumber"": ""51ca009816fdbd80f120e015ee75823e"",
+ ""IssuerName"": ""C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)10, CN=VeriSign Class 3 Code Signing 2010 CA"",
+ ""SubjectName"": ""C=US, ST=California, L=Redwood Shores, O=Oracle Corporation, OU=Digital ID Class 3 - Microsoft Software Validation v2, OU=VirtualBox, CN=Oracle Corporation"",
+ ""Timestamp"": ""2014-10-17T09:56:06Z"",
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,11370496,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.1360371Z,2244,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-880578595-1860270145-482643319-2788375705-1540778122"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-101278"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""EventLog"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_101278"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,24952832,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.2066589Z,2300,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceRedirectionGuard -p -s EventSystem,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1772571935-1555666882-3369284645-1675012128-2386634627"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-102185"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""EventSystem"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_102185"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,11390976,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.2288282Z,2312,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2590341223-3996088049-3993122417-23640849-324535191"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-102341"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SysMain"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_102341"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeLockMemoryPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeProfileSingleProcessPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,73256960,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.2358988Z,2320,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s Themes,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1189432293-2777010110-2640223427-1344437502-1956879817"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-102490"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Themes"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_102490"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,8060928,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.3808477Z,2416,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k netsvcsRedirectionGuard -p -s SENS,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-4259241309-1822918763-1176128033-1339750638-3428293995"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-104808"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SENS"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_104808"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,11927552,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.4048302Z,2432,4,true,Memory Compression,,,,,,NT AUTHORITY\SYSTEM,32464896,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.4741715Z,2464,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1580948945-3239616721-2529237571-3761093093-1214243633"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-107941"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""AudioEndpointBuilder"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_107941"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,11939840,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.6712934Z,2508,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2676549577-1911656217-2625096541-4178041876-1366760775"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-112928"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Audiosrv"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_112928"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,19218432,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:10.9464739Z,2552,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TextInputManagementService,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1569767499-1044542396-1260780493-218930462-4138269783"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-117927"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""TextInputManagementService"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_117927"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,11952128,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:11.147267Z,2616,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k appmodel -p -s StateRepository,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-4118144674-975173503-976751360-2062754009-4288402176"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-122208"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""StateRepository"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_122208"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeIncreaseBasePriorityPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreatePermanentPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,19771392,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:11.3742967Z,2668,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Wcmsvc,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-4155767994-3874329934-3800885181-2130851812-726865888"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-123712"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Wcmsvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_123712"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,13324288,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:11.414027Z,2680,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s DusmSvc,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-4071458001-3563271761-1846288968-3700919931-3809667977"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-123546"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""DusmSvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_123546"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,13012992,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:11.7599237Z,2752,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k netsvcs -p -s ShellHWDetection,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1690854464-3758363787-3981977099-3843555589-1401248062"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-126210"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""ShellHWDetection"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_126210"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,20344832,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:12.1259496Z,2864,824,true,spoolsv.exe,C:\WINDOWS\System32\spoolsv.exe,C:\Windows\System32\spoolsv.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-3951239711-1671533544-1416304335-3763227691-3930497994"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-128467"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Spooler"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_128467"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeAuditPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""4dbe15e4257515132e1fa0aa28844dce"",
+ ""SHA1"": ""86e2d2952045e1575cb90d09c6ed5c4b40f1d699"",
+ ""SHA256"": ""f1757d2bd01b169940689f38dd0fec734e38f7636838e0687d1a29ef3494533d""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\spoolsv.exe"",
+ ""ProgramName"": ""Microsoft"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com"",
+ ""SerialNumber"": ""3300000017d4dfd9e3950be7ef000000000017"",
+ ""IssuerName"": ""C=US, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2026 RSA2048-SHA256"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": {
+  ""Catalog"": ""C:\\WINDOWS\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\Microsoft-Windows-Client-Desktop-Required-Package02~31bf3856ad364e35~amd64~~10.0.26100.9711.cat""
+ }
+}",NT AUTHORITY\SYSTEM,22220800,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:12.381022Z,2904,824,true,svchost.exe,C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\LOCAL SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\LocalService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-1383147646-27650227-2710666058-1662982300-1023958487"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-129863"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-33"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""BFE"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""mpssvc"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_129863"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""WRITE RESTRICTED"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-734518492-402359323-2580938124-1419864735-4212787651-2727913556-228323224-564805089"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-1962849891-688487262-3571417821-3628679630-802580238-1922556387-206211640-3335523193"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-19"",
+ ""Privileges"": {
+  ""SeAuditPrivilege"": ""ENABLED"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-19""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\LOCAL SERVICE,25337856,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:12.435036Z,2928,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\NETWORK SERVICE"",
+ ""ProfileDir"": ""C:\\WINDOWS\\ServiceProfiles\\NetworkService"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-719998295-2833700043-1566817583-4093942769-1414026312"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-130702"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""LanmanWorkstation"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_130702"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY""
+ },
+ ""SID"": ""S-1-5-20"",
+ ""Privileges"": {
+  ""SeAuditPrivilege"": ""ENABLED"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-20""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\NETWORK SERVICE,11235328,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli
+2026-10-18T14:15:13.3888994Z,1652,824,true,svchost.exe,C:\WINDOWS\System32\svchost.exe -k utcsvc -p,C:\Windows\System32\svchost.exe,"{
+ ""Username"": ""NT AUTHORITY\\SYSTEM"",
+ ""ProfileDir"": ""C:\\WINDOWS\\system32\\config\\systemprofile"",
+ ""IsElevated"": true,
+ ""Groups"": {
+  ""S-1-16-16384"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""S-1-1-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-545"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-6"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-2-1"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-11"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-15"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-80-2620808479-2171380039-3191355562-2070425692-3097948119"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""S-1-5-5-0-146998"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""S-1-2-0"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""S-1-5-32-544"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""GroupNames"": {
+  ""System Mandatory Level"": ""INTEGRITY,INTEGRITY_ENABLED"",
+  ""Everyone"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""SERVICE"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""CONSOLE LOGON"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Authenticated Users"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""This Organization"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""DiagTrack"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER"",
+  ""LogonSessionId_0_146998"": ""ENABLED,ENABLED_BY_DEFAULT,LOGON_ID,MANDATORY,OWNER"",
+  ""LOCAL"": ""ENABLED,ENABLED_BY_DEFAULT,MANDATORY"",
+  ""Administrators"": ""ENABLED,ENABLED_BY_DEFAULT,OWNER""
+ },
+ ""SID"": ""S-1-5-18"",
+ ""Privileges"": {
+  ""SeTcbPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeSystemProfilePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeDebugPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeChangeNotifyPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeImpersonatePrivilege"": ""ENABLED,ENABLED_BY_DEFAULT"",
+  ""SeCreateGlobalPrivilege"": ""ENABLED,ENABLED_BY_DEFAULT""
+ },
+ ""PrimaryGroup"": ""S-1-5-18""
+}","{
+ ""MD5"": ""07fe1be55d1049c7b48e270c466502d4"",
+ ""SHA1"": ""0bac26fca769fbecab983e3cfba95140d55e0855"",
+ ""SHA256"": ""1222a44a5fdb4efde4dfcb41093648627950e7ec02d8667f1c26ccae31d922e2""
+}","{
+ ""Filename"": ""C:\\Windows\\System32\\svchost.exe"",
+ ""ProgramName"": ""Microsoft Windows"",
+ ""PublisherLink"": null,
+ ""MoreInfoLink"": ""http://www.microsoft.com/windows"",
+ ""SerialNumber"": ""33000005402a4ad7d23121a615000000000540"",
+ ""IssuerName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Production PCA 2011"",
+ ""SubjectName"": ""C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Publisher"",
+ ""Timestamp"": null,
+ ""Trusted"": ""trusted"",
+ ""_ExtraInfo"": null
+}",NT AUTHORITY\SYSTEM,57765888,F.DBADHTCH05SLG.H,C.d440fee9f2fb627f,WIN-Cli

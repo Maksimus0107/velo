@@ -1,0 +1,8 @@
+SELECT OSPath, Name, Size, Btime, Mtime
+FROM glob(globs=[
+  'C:/Users/*/AppData/Local/Temp/**',
+  'C:/Windows/Temp/**'
+], nosymlink=TRUE)
+WHERE NOT IsDir
+  AND Btime >= timestamp(epoch=now() - 86400)
+LIMIT 100

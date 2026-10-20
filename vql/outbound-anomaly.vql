@@ -1,0 +1,10 @@
+SELECT Pid, Name, Status,
+       `Laddr.IP` AS LocalIP,
+       `Laddr.Port` AS LocalPort,
+       `Raddr.IP` AS RemoteIP,
+       `Raddr.Port` AS RemotePort
+FROM Artifact.Windows.Network.Netstat()
+WHERE Status =~ "ESTAB"
+  AND `Raddr.IP` = "192.168.56.10"
+  AND `Raddr.Port` = 8090
+LIMIT 100

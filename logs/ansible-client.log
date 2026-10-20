@@ -1,0 +1,21 @@
+
+PLAY [Manage Velociraptor Linux client] ****************************************
+
+TASK [Check Velociraptor binary] ***********************************************
+ok: [localhost]
+
+TASK [Check Velociraptor config] ***********************************************
+ok: [localhost]
+
+TASK [Verify existing installation] ********************************************
+ok: [localhost] => {
+    "changed": false,
+    "msg": "All assertions passed"
+}
+
+TASK [Ensure Velociraptor is running] ******************************************
+ok: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=4    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
